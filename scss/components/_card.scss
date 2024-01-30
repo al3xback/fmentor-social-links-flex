@@ -6,7 +6,8 @@
 .card__image,
 .card__title-wrap,
 .card__body,
-.card__links {
+.card__links,
+.card__link {
 	display: flex;
 	flex-direction: column;
 }
